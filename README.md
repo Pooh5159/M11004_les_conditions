@@ -6,9 +6,9 @@ Après avoir forké ou récupéré ce projet, ouvrez le avec VS Code ou votre é
 
 ### Exercice 1 : Fichier M11004-1.php
 
-#### Créer une variable age et l'initialiser avec une valeur.
+#### Créer une variable âge et l'initialiser avec une valeur.
 
-Si l'age est supérieur ou égale à 18, afficher Vous êtes majeur.
+Si l'âge est supérieur ou égale à 18, afficher Vous êtes majeur.
 Dans le cas contraire, afficher Vous êtes mineur.
 Faire les différents tests
 
@@ -17,8 +17,8 @@ Faire les différents tests
 #### Après avoir étudié le profil de Maxime
 
 Maxime est-il un garçon de moins de 17 ans ?
-Mesure t-il plus de 1,57m ?
-Maxime possède t-il une moyenne en Français supérieure à 11 ?
+Mesure-t-il plus de 1,57m ?
+Maxime possède-t-il une moyenne en Français supérieure à 11 ?
 Sa moyenne générale est-elle inférieur ou supérieure à 12 ?
 Maxime est-il un garçon de plus de 12 ans mesurant plus de 1,52m ?
 
@@ -34,9 +34,9 @@ Créer une variable **magnitude**. Selon la valeur de **magnitude**, afficher la
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1         | Micro-séisme impossible à ressentir.                                                                                                                                             |
 | 2         | Micro-séisme impossible à ressentir mais enregistrable par les sismomètres.                                                                                                      |
-| 3         | Ne cause pas de dégats mais commence à pouvoir être légèrement ressenti.                                                                                                         |
-| 4         | Séisme capable de faire bouger des objets mais ne causant généralement pas de dégats.                                                                                            |
-| 5         | Séisme capable d'engendrer des dégats importants sur de vieux bâtiments ou bien des bâtiments présentants des défauts de construction. Peu de dégats sur des bâtiments modernes. |
+| 3         | Ne cause pas de dégâts mais commence à pouvoir être légèrement ressenti.                                                                                                         |
+| 4         | Séisme capable de faire bouger des objets mais ne causant généralement pas de dégâts.                                                                                            |
+| 5         | Séisme capable d'engendrer des dégâts importants sur de vieux bâtiments ou bien des bâtiments présentants des défauts de construction. Peu de dégâts sur des bâtiments modernes. |
 | 6         | Fort séisme capable d'engendrer des destructions majeures sur une large distance (180 km) autour de l'épicentre.                                                                 |
 | 7         | Séisme capable de destructions majeures à modérées sur une très large zone en fonction de la distance.                                                                           |
 | 8         | Séisme capable de destructions majeures sur une très large zone de plusieurs centaines de kilomètres.                                                                            |
